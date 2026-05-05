@@ -1,0 +1,32 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# IDE-specific files
+*.csproj
+*.sln
+*.userprefs
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Unity Package Manager
+# Packages/manifest.json
+# Packages/packages-lock.json
+
+# Exclude personal settings
+UserSettings/
+
+# Builds
+*.apk
+*.aab
+*.exe
+*.app
+*.zip
+*.tar.gz
